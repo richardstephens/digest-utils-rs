@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2024"
 description = "Ergonomic helpers for common hash functions (MD5, SHA-1, SHA-2), Commons-Codec style but Rust-flavoured."
 license = "MIT OR Apache-2.0"
+repository = "https://github.com/richardstephens/digest-utils-rs"
 
 [dependencies]
 digest = "0.11"
